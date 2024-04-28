@@ -17,7 +17,7 @@
    运行以下命令启动 Express 服务器：
 
    ```bash
-   node server.js
+   npm run dev
    ```
 
    服务器将在端口 `3000` 上运行。你也可以通过设置环境变量 `PORT` 来更改端口号。
